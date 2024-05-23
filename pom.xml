@@ -67,18 +67,22 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-rekognition</artifactId>
+            <version>1.11.690</version>     
         </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-kinesisvideo</artifactId>
+            <version>1.12.690</version>     
         </dependency>
         <dependency>
             <artifactId>aws-java-sdk-kinesis</artifactId>
             <groupId>com.amazonaws</groupId>
+            <version>1.12.690</version>
         </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-dynamodb</artifactId>
+            <version>1.12.690</version>     
         </dependency>
 
         <!-- AWS SDK dependencies not included in BOM -->
